@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938470999100",
+    "firebase_url": "https://blooddoner-19be1-default-rtdb.firebaseio.com",
+    "project_id": "blooddoner-19be1",
+    "storage_bucket": "blooddoner-19be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938470999100:android:ea1e1cc6e8b2a2572fef39",
+        "android_client_info": {
+          "package_name": "com.noor.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938470999100-6qm781j2f7jhkktpiiie0klgaae3evad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2x3K2aoE2-Gcsczu3NkCeKUlkX1I9DEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938470999100-6qm781j2f7jhkktpiiie0klgaae3evad.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938470999100-okcgoo13m1si6uk4ii9l2693nujep1in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noor.blooddonation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
