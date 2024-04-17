@@ -1,3 +1,5 @@
+This App is for Blood Donation management
+
 Folder structure
     1. Admin
         i. ScreenNameFolder
