@@ -1,2 +1,0 @@
-# MasterFinalProj
-Final Project
